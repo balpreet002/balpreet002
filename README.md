@@ -43,17 +43,16 @@
 
 ### 🗂️ Projects
 
-[![Python Beginner Projects](https://github-readme-stats.vercel.app/api/pin/?username=balpreet002&repo=Python-Beginner-Projects&theme=tokyonight&hide_border=true)](https://github.com/balpreet002/Python-Beginner-Projects)
+**[🐍 Python Beginner Projects](https://github.com/balpreet002/Python-Beginner-Projects)** — A growing collection of mini Python projects built from scratch.
 
-> 🔨 Building and pushing a new Python project regularly. Each one is a step toward using code in my BA work.
+> 🔨 Building and pushing a new project regularly. Each one is a step toward using code in my BA work.
 
 ---
 
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=balpreet002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balpreet002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balpreet002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
 </div>
 
 <div align="center">
